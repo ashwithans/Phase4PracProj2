@@ -1,0 +1,6 @@
+D:\Practice Projects\Phase4\PracProj2\ProcProj2\SchoolOopsLib\SchoolOopsLib\bin\Debug\SchoolOopsLib.dll
+D:\Practice Projects\Phase4\PracProj2\ProcProj2\SchoolOopsLib\SchoolOopsLib\bin\Debug\SchoolOopsLib.pdb
+D:\Practice Projects\Phase4\PracProj2\ProcProj2\SchoolOopsLib\SchoolOopsLib\obj\Debug\SchoolOopsLib.csproj.AssemblyReference.cache
+D:\Practice Projects\Phase4\PracProj2\ProcProj2\SchoolOopsLib\SchoolOopsLib\obj\Debug\SchoolOopsLib.csproj.CoreCompileInputs.cache
+D:\Practice Projects\Phase4\PracProj2\ProcProj2\SchoolOopsLib\SchoolOopsLib\obj\Debug\SchoolOopsLib.dll
+D:\Practice Projects\Phase4\PracProj2\ProcProj2\SchoolOopsLib\SchoolOopsLib\obj\Debug\SchoolOopsLib.pdb
